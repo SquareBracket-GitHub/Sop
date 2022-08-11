@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sally.png"><SubTexture name="Sally danceRight0000" x="2522" y="0" width="636" height="631" frameX="-35" frameY="-88" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0001" x="630" y="0" width="632" height="637" frameX="-37" frameY="-82" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0002" x="0" y="0" width="630" height="639" frameX="-38" frameY="-80" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0003" x="1262" y="0" width="630" height="636" frameX="-38" frameY="-83" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0004" x="0" y="639" width="630" height="635" frameX="-38" frameY="-84" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0005" x="630" y="639" width="630" height="634" frameX="-38" frameY="-85" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0006" x="1260" y="639" width="630" height="634" frameX="-38" frameY="-85" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0000" x="1892" y="0" width="630" height="634" frameX="-38" frameY="-85" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0001" x="2522" y="1259" width="636" height="623" frameX="-35" frameY="-96" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0002" x="630" y="1908" width="632" height="607" frameX="-37" frameY="-112" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0003" x="0" y="1908" width="630" height="614" frameX="-38" frameY="-105" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0004" x="2522" y="631" width="630" height="628" frameX="-38" frameY="-91" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0005" x="1890" y="1274" width="630" height="632" frameX="-38" frameY="-87" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0006" x="1892" y="634" width="630" height="634" frameX="-38" frameY="-85" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0007" x="0" y="1274" width="630" height="634" frameX="-38" frameY="-85" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0008" x="630" y="1274" width="630" height="634" frameX="-38" frameY="-85" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0009" x="1260" y="1274" width="630" height="634" frameX="-38" frameY="-85" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

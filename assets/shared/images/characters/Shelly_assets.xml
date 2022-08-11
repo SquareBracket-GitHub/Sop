@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sally_assets.png"><SubTexture name="Shelly_assets danceLeft0000" x="0" y="1205" width="479" height="592" frameX="-141" frameY="-24" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0001" x="1480" y="1205" width="478" height="567" frameX="-145" frameY="-44" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0002" x="982" y="1205" width="498" height="572" frameX="-148" frameY="-35" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0003" x="479" y="1205" width="503" height="589" frameX="-150" frameY="-18" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0004" x="1579" y="597" width="506" height="595" frameX="-150" frameY="-12" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0005" x="1015" y="605" width="506" height="597" frameX="-150" frameY="-10" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceLeft0006" x="1579" y="0" width="506" height="597" frameX="-150" frameY="-10" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0000" x="1044" y="0" width="535" height="602" frameX="-141" frameY="-14" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0001" x="0" y="0" width="529" height="605" frameX="-145" frameY="-6" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0002" x="529" y="0" width="515" height="603" frameX="-148" frameY="-4" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0003" x="0" y="605" width="509" height="600" frameX="-150" frameY="-7" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0004" x="509" y="605" width="506" height="599" frameX="-150" frameY="-8" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0005" x="1015" y="605" width="506" height="597" frameX="-150" frameY="-10" frameWidth="720" frameHeight="720" />
+<SubTexture name="Sally danceRight0006" x="1579" y="0" width="506" height="597" frameX="-150" frameY="-10" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

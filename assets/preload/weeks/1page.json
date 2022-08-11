@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["happy misfortune", "zforms", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "forest",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "prolog",
+	"weekName": "1 Page",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
