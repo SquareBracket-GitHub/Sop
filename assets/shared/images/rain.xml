@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rain.png">
+    <SubTexture name="Raining 00000" x="0" y="0" width="1285" height="700"/>
+    <SubTexture name="Raining 00001" x="1285" y="0" width="1285" height="700"/>
+    <SubTexture name="Raining 00002" x="0" y="700" width="1285" height="700"/>
+    <SubTexture name="Raining 00003" x="1285" y="700" width="1285" height="700"/>
+</TextureAtlas>
